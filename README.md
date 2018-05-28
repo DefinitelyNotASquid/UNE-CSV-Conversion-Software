@@ -5,4 +5,4 @@ This software is designed to quickly convert the raw format of csv files to the 
 
 For opening up files to be converted simply click on the open button down in the bottom right or under the file menu. A file dialouge should appear and after to select a file you will be required to populate some feilds before the file can be converted. After this is done, simply click the "Convert button" in the bottom left hand corner and the file should be converted to the appropriate format.
 
-![](https://i.imgur.com/A46I8KP.gifv)
+<video src="https://i.imgur.com/A46I8KP.gifv" poster="poster.jpg" width="320" height="200" controls preload></video>
